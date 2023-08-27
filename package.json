@@ -1,0 +1,16 @@
+{
+  "name": "dev_tefi-oracal",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@opzlab/feather.js": "^2.0.0",
+    "@opzlab/library": "^1.6.12",
+    "@opzlab/terrain": "^1.0.2",
+    "@opzlab/utils": "^1.1.0"
+  },
+  "workspaces": [
+    "frontend"
+  ],
+  "author": "@opzlab <core@opz.life>",
+  "license": "ISC"
+}

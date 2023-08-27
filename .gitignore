@@ -19,3 +19,11 @@ target/
 tarpaulin-report.*
 
 artifacts/
+
+node_modules
+
+# Added by cargo
+
+/target
+/caches
+/.env
